@@ -1,30 +1,27 @@
-Playwright SauceDemo Automation
+Login Feature
 
-Features
+✔ Positive Login
 
-✔ Login Testing
+✔ Invalid Password
 
-✔ Inventory Testing
+✔ Empty Username
 
-✔ Cart Testing
+✔ Empty Password
 
-✔ Checkout Testing
+✔ Empty Credentials
 
-✔ End-to-End Testing
+✔ Locked Out User
 
-✔ Data Driven Testing
+✔ Performance Glitch User
 
-✔ API Testing
+✔ Problem User
 
-✔ HTML Report
+Inventory Feature
 
-✔ Screenshot
+✔ Add Item
 
-✔ Video
+✔ Remove Item
 
-Technology
+✔ Multiple Item
 
-- Playwright
-- TypeScript
-- Page Object Model
-- GitHub Actions
+✔ Cart Badge
